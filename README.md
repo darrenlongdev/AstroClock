@@ -17,4 +17,6 @@ I use this personally in my home obsevatory and to assist me with timings when t
 
 Download all files from the v2_0 folder (or latest version folder if applicable), execute AstroClock.exe. Please note that this is an x64 application for Windows. I can supply a x32 build if required, i can also create customised versions, although would expect a fee for this.
 
+I have also tested under Linux x64 using Wine and can confirm it runs perfectly.
+
 In terms of licensing, Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0), as I'm happy for people to redistribute it, so long as they credit myself. I'm not however looking to make the source publically available.
