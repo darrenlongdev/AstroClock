@@ -15,7 +15,7 @@ This clock also includes some important astronomical functions, such as Solar Ri
 
 I use this personally in my home obsevatory and to assist me with timings when tuning into U.S rocket launches from the UK. I hope that this can proove useful for others too.
 
-Download all files from the v2_0 folder (or latest version folder if applicable), execute AstroClock.exe. Please note that this is an x64 application for Windows. I can supply a x32 build if required, i can also create customised versions, although would expect a fee for this.
+Download all files from the v3_1 folder (or latest version folder if applicable), execute AstroClock.exe. Please note that this is an x64 application for Windows. I can supply a x32 build if required, i can also create customised versions, although would expect a fee for this.
 
 I have also tested under Linux x64 using Wine and can confirm it runs perfectly.
 
